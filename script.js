@@ -28,4 +28,4 @@ const updateUI = data => {
     document.getElementById('city').value = "";
 }
 
-getWeatherData('Chittagong');
+getWeatherData('Hyderabad');
